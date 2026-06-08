@@ -1,5 +1,11 @@
 # Prosjektinstruksjoner
 
+## Produktbeskrivelse
+[Hva er dette og hvem er det for?]
+
+## Mål
+[Hva skal produktet løse?]
+
 ## Prosjekt
 [Beskriv hva prosjektet er]
 
@@ -13,6 +19,5 @@
 
 ## Mappestruktur
 - src/ — kildekode
-- specs/ — spesifikasjoner per feature
 - docs/adr/ — arkitekturbeslutninger
 - tests/ — tester
