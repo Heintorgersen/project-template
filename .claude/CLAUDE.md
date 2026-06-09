@@ -21,3 +21,9 @@
 - src/ — kildekode
 - docs/adr/ — arkitekturbeslutninger
 - tests/ — tester
+
+## Kodestruktur
+Organiser alltid kode feature-basert under src/features/.
+Feature-navn skal matche spec-navn under .specify/specs/.
+Delt kode legges i src/shared/.
+Start hvert prosjekt med å identifisere features før du skriver kode.
